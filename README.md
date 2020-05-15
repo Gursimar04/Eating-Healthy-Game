@@ -2,7 +2,7 @@
 > An Educational Game build in unity aimed at helping toddlers understand the value of eating healthy by avoiding junk food and choosing green vegetables
 
 
-<img src="images/game.png" width=400>
+<img src="images/game.PNG" width=400>
 
 ---
 
@@ -22,7 +22,7 @@ A 2D game where the user has a restricted control over the protagonist. The user
 - Unity
 - C#
 
-<img src="images/LevSelect.png" width=400>
+<img src="images/LevSelect.PNG" width=400>
 
 ---
 ## License
@@ -54,11 +54,11 @@ There are 4 different scenes. First scene will be the main menu with Start, Inst
  As Jeff hits unhealthy food the number of lives decrease. The GUI elements will appear at the top of the game in separate panel/window.
 
  ### Game flow Diagram
- <img src="images/architecture.png" width=400>
+ <img src="images/architecture.PNG" width=400>
 
 ---
 
 ## Author Info
 - Linkedin - [Gursimar Singh Bedi](https://www.linkedin.com/in/gursimar-singh-bedi-31439a170)
 
-[Back to the top](# Eating-Healthy-Game)
+[Back to the top](#Eating-Healthy-Game)
